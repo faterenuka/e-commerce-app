@@ -159,7 +159,7 @@ spring.jpa.hibernate.ddl-auto=update
 [![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Cart.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Cart.png?raw=true)
 
 ## Order-Controller
-[![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/OrdersController.png?raw=true)](https://github.com/Anantk05/temporary-partner-4254/blob/main/images/Order%20Controller.png?raw=true)
+[![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Orders.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Orders.png?raw=true)
 
 ## Thank You! Your Order is Placed : )
 [![SwaggerUI](https://en.pimg.jp/077/437/469/1/77437469.jpg)](https://en.pimg.jp/077/437/469/1/77437469.jpg)
