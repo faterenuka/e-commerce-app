@@ -153,7 +153,7 @@ spring.jpa.hibernate.ddl-auto=update
 [![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/UserLoginController.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/UserLoginController.png?raw=true)
 
 ## Product-Controller
-[![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/ProductController.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/ProductController.png?raw=true)
+[![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Product.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Product.png?raw=true)
 
 ## Cart-Controller
 [![SwaggerUI](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Cart.png?raw=true)](https://github.com/faterenuka/e-commerce-app/blob/main/Images/Cart.png?raw=true)
